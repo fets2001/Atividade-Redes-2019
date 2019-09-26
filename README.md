@@ -1,4 +1,4 @@
-# Batalha Naval - Redes FatecSCS 2019
+# Batalha Naval - Redes FatecSCS 2019 - Professor Fábio Cabrini
 
 Equipe 3: André Luiz Dias dos Santos, Felipe Laranjeira, Nathan Saladino, Paschoal Dantas, Pedro Vasconcellos
 
